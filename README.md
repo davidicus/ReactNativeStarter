@@ -10,5 +10,5 @@
 - [React-Native-Vector-Icons](https://github.com/oblador/react-native-vector-icons) that provide thousands of icons to help build proof of concept
 - Loading spinner via [React-native-loading-spinner-overlay](https://github.com/niftylettuce/react-native-loading-spinner-overlay) because reasons
 
-#License
-ISC
+###License
+[ISC](https://github.com/davidicus/ReactNativeStarter/blob/master/License)
