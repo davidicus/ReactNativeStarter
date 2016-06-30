@@ -13,6 +13,8 @@ const HomeStyles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     marginTop: -100,
+    paddingLeft: 40,
+    paddingRight: 40,
   },
 
   homeTitle: {
@@ -25,6 +27,15 @@ const HomeStyles = StyleSheet.create({
     fontWeight: '900',
     marginBottom: 10,
     textAlign: 'center',
+  },
+
+  homeText: {
+    color: '#ffffff',
+    fontSize: 16,
+    fontWeight: '400',
+    lineHeight: 24,
+    marginBottom: 100,
+    textAlign: 'left',
   },
 
   homeHeaderSubText: {

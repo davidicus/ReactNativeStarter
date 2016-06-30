@@ -23,7 +23,7 @@ class SplashScreen extends Component {
       this.setState({
         visible: !this.state.visible
       });
-    }, 500);
+    }, 1500);
     setTimeout (() => {
       this._navigateToHome();
     }, 3000);

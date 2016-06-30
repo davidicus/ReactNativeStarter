@@ -19,6 +19,7 @@ class HomeScreen extends Component {
     return (
       <ViewContainer style={styles.home}>
         <Text style={styles.homeHeaderText}>Home Page</Text>
+        <Text style={styles.homeText}>Use this project as a jumping off point to quickly spin up an app. Click the button below to see the navigation working a bit</Text>
         <TouchableOpacity style={styles.homeTitle} onPress={(event) => this._navigateToScreenOne()}>
           <Text style={styles.homeHeaderSubText}> { homePageIcon } Project Starter</Text>
         </TouchableOpacity>
